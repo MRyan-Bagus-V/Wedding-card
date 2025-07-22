@@ -6,7 +6,6 @@ header nav {
     display: none;
     width: 100%;
     padding: 0 1.4rem;
-    background-color: #212529;
     align-items: center;
     justify-content: space-between;
     position: fixed;
@@ -46,6 +45,6 @@ header nav a span {
 }
 
 header nav a:hover {
-    background-color: #000;
+    background-color: #4c4c4c;
     color: #fff;
 }
