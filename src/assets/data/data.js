@@ -82,7 +82,7 @@ export const data = {
         {
             id: 2,
             name: 'Lila Pratama Putri',
-            icon: './src/assets/images/bri.png',
+            icon: './src/assets/images/bca.png',
             rekening: '12345678'
         },
     ],
