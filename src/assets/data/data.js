@@ -2,7 +2,7 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'M Ryan Bagus Valentin, S.Kom',
+            name: 'MRyan Bagus Valentin, S.Kom',
             child: 'Putra Kedua',
             father: 'Ahmad Dedy Surya Irwandi, Alm',
             mother: 'Dadah Siti Saadah',

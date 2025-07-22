@@ -5,14 +5,20 @@ export const home = () => {
     const homeContainer = document.querySelector('.home');
     const [_, figureElement, timeElement, homeTime, calendarAnchor] = homeContainer.children;
 
-    const generateFigureContent = ({bride}) => {
-        const {L: {name: brideLName}, P: {name: bridePName}, couple: coupleImage} = bride;
-        return `
-            <img src="${coupleImage}" alt="couple animation">
-            <figcaption>
-                ${brideLName.split(' ')[0]} & ${bridePName.split(' ')[0]}
-            </figcaption>`;
-    };
+const generateFigureContent = ({ bride }) => {
+    const { L: { name: brideLName }, P: { name: bridePName }, couple: coupleImage } = bride;
+
+    const shortBrideLName = brideLName.split(' ')[0]; // kata ke-2 = "Ryan"
+    const shortBridePName = bridePName.split(',')[0].split(' ')[0]; // kata pertama saja
+
+    return `
+        <img src="${coupleImage}" alt="couple animation">
+        <figcaption>
+            ${shortBrideLName} & ${shortBridePName}
+        </figcaption>`;
+};
+
+
 
     const generateTimeContent = ({time}) => {
         const {year, month, date, day} = time.marriage;
