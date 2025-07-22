@@ -63,6 +63,7 @@
 
 .bride i, .hadist i, .time a + p + i, .galeri > i {
     font-size: 3rem;
+      background-color: #212529;
     color: #908d8d;
     position: absolute;
     z-index: 10;
