@@ -42,7 +42,7 @@
 
 .bride .bride_couple li figure img {
     width: 12rem;
-    height: 13rem;
+    height: 14rem;
     object-fit: cover;
     border-radius: 50%;
     box-shadow: var(--shadow-md);
@@ -62,9 +62,8 @@
 }
 
 .bride i, .hadist i, .time a + p + i, .galeri > i {
-    font-size: 3rem;
-      background-color: #212529;
-    color: #908d8d;
+    font-size: 2rem;
+    color: #212529;
     position: absolute;
     z-index: 10;
     animation: upAndDown 3s infinite;

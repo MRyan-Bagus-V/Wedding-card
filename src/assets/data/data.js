@@ -2,9 +2,9 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'MRyan Bagus Valentin, S.Kom',
+            name: 'M Ryan Bagus Valentin, S.Kom',
             child: 'Putra Kedua',
-            father: 'Ahmad Dedy Surya Irwandi, Alm',
+            father: 'Ahmad Dedy Surya I, Alm',
             mother: 'Dadah Siti Saadah',
             image: './src/assets/images/cowo.png'
         },
@@ -89,7 +89,7 @@ export const data = {
 
     audio: './src/assets/audio/pure-love-304010.mp3',
 
-    api: 'https://script.google.com/macros/s/AKfycbyydz6N4p2VWUG8zsXeURv6ap9RP8a4eC3x6N3x6qTDjMVr1cIBz9S0NsHw2rWvBOSXGg/exec',
+    api: 'https://script.google.com/macros/s/AKfycbxUMsNJlntUidUfKhfEjoCyuDDlWoozARBmd-uSlokuDyWCznf2ip6XMIxm_jheqVY/exec',
 
     navbar: [
         {
