@@ -89,7 +89,7 @@ export const data = {
 
     audio: './src/assets/audio/pure-love-304010.mp3',
 
-    api: 'https://script.google.com/macros/s/AKfycbwvhEk301FKWBI_LtRMCJrZ_M7ziYNnt5G7qn_PZamWs2CtjbLxEACdUMu5_fQqDUUS/exec',
+    api: 'https://script.google.com/macros/s/AKfycbzT2IFHDdRSLPhHE2ZHWF3Ah0VqZfaOdYudk7KzMWqDB5W0ImsSefJR8kbN9JaHcD24/exec',
 
     navbar: [
         {
