@@ -49,9 +49,11 @@
 }
 
 .bride .bride_couple li figure figcaption {
-    font-size: var(--fontSize-heading-base);
+    font-size: 1.5rem;
+    font-style: inherit;
     margin: 1rem 0;
-    font-family: var(--sacramento);
+    font-family: 'Playfair Display', 'Montserrat', sans-serif;
+    font-weight: 200;
 }
 
 .bride .bride_couple span {

@@ -18,6 +18,7 @@ export const data = {
         },
 
         couple: './src/assets/images/duo.jpg'
+
     },
 
     time: {
