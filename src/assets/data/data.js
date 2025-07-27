@@ -53,11 +53,11 @@ export const data = {
     galeri: [
         {
             id: 1,
-            image: './src/assets/images/1.png'
+            image: './src/assets/images/1.jpg'
         },
         {
             id: 2,
-            image: './src/assets/images/2.png'
+            image: './src/assets/images/2.jpg'
         },
         {
             id: 3,
@@ -78,13 +78,13 @@ export const data = {
             id: 1,
             name: 'M Ryan Bagus Valentin',
             icon: './src/assets/images/bca.png',
-            rekening: '12345678'
+            rekening: '6085030772'
         },
         {
             id: 2,
             name: 'Lila Pratama Putri',
             icon: './src/assets/images/bca.png',
-            rekening: '12345678'
+            rekening: '4280383941'
         },
     ],
 
