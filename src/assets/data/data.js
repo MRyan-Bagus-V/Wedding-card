@@ -65,11 +65,11 @@ export const data = {
         },
         {
             id: 4,
-            image: './src/assets/images/4.png'
+            image: './src/assets/images/4.jpg'
         },
         {
             id: 5,
-            image: './src/assets/images/5.png'
+            image: './src/assets/images/5.jpg'
         }
     ],
 
