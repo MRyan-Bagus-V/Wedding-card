@@ -3,7 +3,7 @@ export const data = {
         L: {
             id: 1,
             name: 'M Ryan Bagus Valentin, S.Kom',
-            child: 'Putra Kedua',
+            child: 'Putra Ke-2',
             father: 'Ahmad Dedy Surya I, Alm',
             mother: 'Dadah Siti Saadah',
             image: './src/assets/images/cowo.png'
@@ -11,7 +11,7 @@ export const data = {
         P: {
             id: 2,
             name: 'Lila Pratama Putri, S.Keb',
-            child: 'Putri Pertama',
+            child: 'Putri ke-1',
             father: 'Ermanto',
             mother: 'Susilawati',
             image: './src/assets/images/cewe.jpg'
@@ -42,7 +42,7 @@ export const data = {
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Lamping, RT 03/ RW 05, Margalaksana, Kecamatan Cilawu, Kabupaten Garut'
+        address: 'Kp. Lamping, RT 03/ RW 05, Margalaksana, Kecamatan Cilawu, Kabupaten Garut Jawa Barat'
     },
 
     link: {

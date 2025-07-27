@@ -8,7 +8,7 @@ export const home = () => {
 const generateFigureContent = ({ bride }) => {
     const { L: { name: brideLName }, P: { name: bridePName }, couple: coupleImage } = bride;
 
-    const shortBrideLName = brideLName.split(' ')[0]; // kata ke-2 = "Ryan"
+    const shortBrideLName = brideLName.split(' ')[1]; // kata ke-2 = "Ryan"
     const shortBridePName = bridePName.split(',')[0].split(' ')[0]; // kata pertama saja
 
     return `
