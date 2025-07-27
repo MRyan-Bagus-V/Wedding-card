@@ -14,7 +14,7 @@ export const data = {
             child: 'Putri Pertama',
             father: 'Ermanto',
             mother: 'Susilawati',
-            image: './src/assets/images/cewe.png'
+            image: './src/assets/images/cewe.jpg'
         },
 
         couple: './src/assets/images/duo.jpg'
@@ -61,7 +61,7 @@ export const data = {
         },
         {
             id: 3,
-            image: './src/assets/images/3.png'
+            image: './src/assets/images/3.jpg'
         },
         {
             id: 4,
